@@ -8,10 +8,8 @@ assignees: ''
 ---
 
 # Paper
-Title: 
-Authors: 
 Link: 
-Year:
+Year: 
 
 # Summary
 
