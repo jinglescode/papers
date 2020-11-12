@@ -24,12 +24,14 @@ Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, 
 - [Conv-tasnet: Surpassing ideal time–frequency magnitude masking for speech separation](https://github.com/jinglescode/ml-papers/issues/18)
 - [Tacotron: Towards End-to-End Speech Synthesis](https://github.com/jinglescode/papers/issues/24)
 - [Wave-Tacotron: Spectrogram-free end-to-end text-to-speech synthesis](https://github.com/jinglescode/papers/issues/25)
+- [Pay Less Attention with Lightweight and Dynamic Convolutions](https://github.com/jinglescode/papers/issues/28)
 
 ## Computer vision
 - [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://github.com/jinglescode/ml-papers/issues/1)
 - [Stand-Alone Self-Attention in Vision Models](https://github.com/jinglescode/ml-papers/issues/21)
 - [On the relationship between self-attention and convolutional layers](https://github.com/jinglescode/papers/issues/22)
 - [Dynamic Convolution: Attention over Convolution Kernels](https://github.com/jinglescode/papers/issues/27)
+- [Dynamic Group Convolution for Accelerating Convolutional Neural Networks](https://github.com/jinglescode/papers/issues/29)
 
 ## Sequential
 - [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://github.com/jinglescode/ml-papers/issues/14)
@@ -41,7 +43,7 @@ Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, 
 - [Tacotron: Towards End-to-End Speech Synthesis](https://github.com/jinglescode/papers/issues/24)
 - [Wave-Tacotron: Spectrogram-free end-to-end text-to-speech synthesis](https://github.com/jinglescode/papers/issues/25)
 - [Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesis](https://github.com/jinglescode/papers/issues/26)
-
+- [Pay Less Attention with Lightweight and Dynamic Convolutions](https://github.com/jinglescode/papers/issues/28)
 
 # Medical
 
