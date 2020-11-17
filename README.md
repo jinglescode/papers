@@ -44,6 +44,7 @@ Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, 
 - [Wave-Tacotron: Spectrogram-free end-to-end text-to-speech synthesis](https://github.com/jinglescode/papers/issues/25)
 - [Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesis](https://github.com/jinglescode/papers/issues/26)
 - [Pay Less Attention with Lightweight and Dynamic Convolutions](https://github.com/jinglescode/papers/issues/28)
+- [Learning representations from EEG with deep recurrent-convolutional neural networks](https://github.com/jinglescode/papers/issues/30)
 
 # Medical
 
@@ -51,6 +52,8 @@ Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, 
 
 - [Learning across multi-stimulus enhances target recognition methods in SSVEP-based BCIs](https://github.com/jinglescode/ml-papers/issues/6)
 - [Deep Learning-based Classification for Brain-Computer Interfaces](https://github.com/jinglescode/ml-papers/issues/12)
+- [Learning representations from EEG with deep recurrent-convolutional neural networks](https://github.com/jinglescode/papers/issues/30)
+- [Retinotopic and topographic analyses with gaze restriction for steady-state visual evoked potentials](https://github.com/jinglescode/papers/issues/31)
 
 ## Vision
 
