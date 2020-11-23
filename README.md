@@ -45,6 +45,8 @@ Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, 
 - [Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesis](https://github.com/jinglescode/papers/issues/26)
 - [Pay Less Attention with Lightweight and Dynamic Convolutions](https://github.com/jinglescode/papers/issues/28)
 - [Learning representations from EEG with deep recurrent-convolutional neural networks](https://github.com/jinglescode/papers/issues/30)
+- [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://github.com/jinglescode/papers/issues/32)
+- [Improved Noisy Student Training for Automatic Speech Recognition](https://github.com/jinglescode/papers/issues/33)
 
 # Medical
 
