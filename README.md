@@ -1,8 +1,8 @@
 # Notes on Machine Learning and Medical Research Papers
 
-![GitHub issues](https://img.shields.io/github/issues-raw/jinglescode/papers?color=informational&label=number%20of%20paper%20reviews)
+[![GitHub issues](https://img.shields.io/github/issues-raw/jinglescode/papers?color=informational&label=number%20of%20paper%20reviews)](https://github.com/jinglescode/papers/issues)
 
-A collection of research paper summaries, on machine learning and medical (brain computer interface and vision). Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, search and filter research papers. Papers are sorted by tags.
+A collection of research paper summaries, on machine learning and medical (brain computer interface and vision). Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, search and filter research papers. 
 
 ## Table of Contents
 
