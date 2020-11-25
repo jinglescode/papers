@@ -1,6 +1,8 @@
-A collection of research paper summaries, on machine learning, and medical papers on brain computer interface and vision.
+# Notes on Machine Learning and Medical Research Papers
 
-Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, search and filter research papers.
+![GitHub issues](https://img.shields.io/github/issues-raw/jinglescode/papers?color=informational&label=number%20of%20paper%20reviews)
+
+A collection of research paper summaries, on machine learning and medical (brain computer interface and vision). Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, search and filter research papers. Papers are sorted by tags.
 
 ## Table of Contents
 
@@ -56,6 +58,7 @@ Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, 
 - [Deep Learning-based Classification for Brain-Computer Interfaces](https://github.com/jinglescode/ml-papers/issues/12)
 - [Learning representations from EEG with deep recurrent-convolutional neural networks](https://github.com/jinglescode/papers/issues/30)
 - [Retinotopic and topographic analyses with gaze restriction for steady-state visual evoked potentials](https://github.com/jinglescode/papers/issues/31)
+- [Steady-state visually evoked potentials: Focus on essential paradigms and future perspectives](https://github.com/jinglescode/papers/issues/34)
 
 ## Vision
 
@@ -69,3 +72,5 @@ Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, 
 - [Multifocal visual evoked potentials for quantifying optic nerve dysfunction in patients with optic disc drusen](https://github.com/jinglescode/ml-papers/issues/10)
 - [Steady-state multifocal visual evoked potential (ssmfVEP) using dartboard stimulation as a possible tool for objective visual field assessment](https://github.com/jinglescode/ml-papers/issues/11)
 - [A comparison of covert and overt attention as a control option in a steady-state visual evoked potential-based brain computer interface](https://github.com/jinglescode/ml-papers/issues/13)
+- [A Review of Deep Learning for Screening, Diagnosis, and Detection of Glaucoma Progression](https://github.com/jinglescode/papers/issues/35)
+
