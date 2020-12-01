@@ -49,6 +49,9 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Learning representations from EEG with deep recurrent-convolutional neural networks](https://github.com/jinglescode/papers/issues/30)
 - [wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations](https://github.com/jinglescode/papers/issues/32)
 - [Improved Noisy Student Training for Automatic Speech Recognition](https://github.com/jinglescode/papers/issues/33)
+- [Visual to Sound: Generating Natural Sound for Videos in the Wild](https://github.com/jinglescode/papers/issues/36)
+- [SampleRNN: An unconditional end-to-end neural audio generation model](https://github.com/jinglescode/papers/issues/37)
+- [Generating Visually Aligned Sound from Videos](https://github.com/jinglescode/papers/issues/38)
 
 # Medical
 
@@ -73,4 +76,3 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Steady-state multifocal visual evoked potential (ssmfVEP) using dartboard stimulation as a possible tool for objective visual field assessment](https://github.com/jinglescode/ml-papers/issues/11)
 - [A comparison of covert and overt attention as a control option in a steady-state visual evoked potential-based brain computer interface](https://github.com/jinglescode/ml-papers/issues/13)
 - [A Review of Deep Learning for Screening, Diagnosis, and Detection of Glaucoma Progression](https://github.com/jinglescode/papers/issues/35)
-
