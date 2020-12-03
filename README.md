@@ -52,6 +52,9 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Visual to Sound: Generating Natural Sound for Videos in the Wild](https://github.com/jinglescode/papers/issues/36)
 - [SampleRNN: An unconditional end-to-end neural audio generation model](https://github.com/jinglescode/papers/issues/37)
 - [Generating Visually Aligned Sound from Videos](https://github.com/jinglescode/papers/issues/38)
+- [Transformer-xl: Attentive language models beyond a fixed-length context](https://github.com/jinglescode/papers/issues/39)
+- [Compressive transformers for long-range sequence modelling](https://github.com/jinglescode/papers/issues/40)
+- [Reformer: The efficient transformer](https://github.com/jinglescode/papers/issues/41)
 
 # Medical
 
