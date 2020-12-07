@@ -55,6 +55,11 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Transformer-xl: Attentive language models beyond a fixed-length context](https://github.com/jinglescode/papers/issues/39)
 - [Compressive transformers for long-range sequence modelling](https://github.com/jinglescode/papers/issues/40)
 - [Reformer: The efficient transformer](https://github.com/jinglescode/papers/issues/41)
+- [Music transformer: Generating music with long-term structure](https://github.com/jinglescode/papers/issues/42)
+- [Conformer: Convolution-augmented Transformer for Speech Recognition](https://github.com/jinglescode/papers/issues/43)
+- [Transformer transducer: A streamable speech recognition model with transformer encoders and rnn-t loss](https://github.com/jinglescode/papers/issues/44)
+- [Rethinking Attention with Performers](https://github.com/jinglescode/papers/issues/45)
+- [Linformer: Self-Attention with Linear Complexity](https://github.com/jinglescode/papers/issues/46)
 
 # Medical
 
