@@ -34,6 +34,7 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [On the relationship between self-attention and convolutional layers](https://github.com/jinglescode/papers/issues/22)
 - [Dynamic Convolution: Attention over Convolution Kernels](https://github.com/jinglescode/papers/issues/27)
 - [Dynamic Group Convolution for Accelerating Convolutional Neural Networks](https://github.com/jinglescode/papers/issues/29)
+- [An image is worth 16x16 words: Transformers for image recognition at scale](https://github.com/jinglescode/papers/issues/50)
 
 ## Sequential
 - [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://github.com/jinglescode/ml-papers/issues/14)
@@ -60,6 +61,8 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Transformer transducer: A streamable speech recognition model with transformer encoders and rnn-t loss](https://github.com/jinglescode/papers/issues/44)
 - [Rethinking Attention with Performers](https://github.com/jinglescode/papers/issues/45)
 - [Linformer: Self-Attention with Linear Complexity](https://github.com/jinglescode/papers/issues/46)
+- [Transformers are rnns: Fast autoregressive transformers with linear attention](https://github.com/jinglescode/papers/issues/49)
+- [An image is worth 16x16 words: Transformers for image recognition at scale](https://github.com/jinglescode/papers/issues/50)
 
 # Medical
 
@@ -70,6 +73,7 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Learning representations from EEG with deep recurrent-convolutional neural networks](https://github.com/jinglescode/papers/issues/30)
 - [Retinotopic and topographic analyses with gaze restriction for steady-state visual evoked potentials](https://github.com/jinglescode/papers/issues/31)
 - [Steady-state visually evoked potentials: Focus on essential paradigms and future perspectives](https://github.com/jinglescode/papers/issues/34)
+- [Filter bank canonical correlation analysis for implementing a high-speed SSVEP-based brain–computer interface](https://github.com/jinglescode/papers/issues/48)
 
 ## Vision
 
