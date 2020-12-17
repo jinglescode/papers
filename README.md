@@ -53,6 +53,9 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Visual to Sound: Generating Natural Sound for Videos in the Wild](https://github.com/jinglescode/papers/issues/36)
 - [SampleRNN: An unconditional end-to-end neural audio generation model](https://github.com/jinglescode/papers/issues/37)
 - [Generating Visually Aligned Sound from Videos](https://github.com/jinglescode/papers/issues/38)
+
+## Transformer
+
 - [Transformer-xl: Attentive language models beyond a fixed-length context](https://github.com/jinglescode/papers/issues/39)
 - [Compressive transformers for long-range sequence modelling](https://github.com/jinglescode/papers/issues/40)
 - [Reformer: The efficient transformer](https://github.com/jinglescode/papers/issues/41)
@@ -63,6 +66,11 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Linformer: Self-Attention with Linear Complexity](https://github.com/jinglescode/papers/issues/46)
 - [Transformers are rnns: Fast autoregressive transformers with linear attention](https://github.com/jinglescode/papers/issues/49)
 - [An image is worth 16x16 words: Transformers for image recognition at scale](https://github.com/jinglescode/papers/issues/50)
+- [Big bird: Transformers for longer sequences](https://github.com/jinglescode/papers/issues/51)
+- [Long Range Arena : A Benchmark for Efficient Transformers](https://github.com/jinglescode/papers/issues/53)
+- [Earthquake transformer—an attentive deep-learning model for simultaneous earthquake detection and phase picking](https://github.com/jinglescode/papers/issues/54)
+- [O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers](https://github.com/jinglescode/papers/issues/55)
+- [Are Transformers universal approximators of sequence-to-sequence functions?](https://github.com/jinglescode/papers/issues/56)
 
 # Medical
 
@@ -74,6 +82,7 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Retinotopic and topographic analyses with gaze restriction for steady-state visual evoked potentials](https://github.com/jinglescode/papers/issues/31)
 - [Steady-state visually evoked potentials: Focus on essential paradigms and future perspectives](https://github.com/jinglescode/papers/issues/34)
 - [Filter bank canonical correlation analysis for implementing a high-speed SSVEP-based brain–computer interface](https://github.com/jinglescode/papers/issues/48)
+- [Methods of EEG Signal Features Extraction Using Linear Analysis in Frequency and Time-Frequency Domains](https://github.com/jinglescode/papers/issues/52)
 
 ## Vision
 
