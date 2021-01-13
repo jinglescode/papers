@@ -1,0 +1,6 @@
+From [Behnam Neyshabur](https://twitter.com/bneyshabur/status/1349225436153319429):
+1. In your response to reviewers, be very nice to all of them even those who have attacked you unfairly. Try to explain things from your viewpoint but be careful that your response should not put the reviewer in the defensive position.
+2. In your response to the reviewers, try to show that you have done something extra to address the reviewer's concern (even if you disagree). This helps both by giving reviewers reasons to increase their score and AC to observe that you have addressed the reviewers concerns.
+3. Explicitly ask each of reviewers who gave you low scores to increase their scores at the end of your response but make sure your request is polite and respectful. Being explicit here makes a huge difference based on my experience.
+4. Unless your paper is guaranteed to be accepted, write to the AC explaining how you view the situation. If it seems that a reviewer doesn't understand the paper or is unreasonable, let the AC know! As an AC, I pay a lot of attention to direct messages from the authors.
+6. Even when writing the rebuttal or a message to AC, please keep in mind that the reviewers and AC have limited attention span. Try to highlight your main message first, go to details next and end with a conclusion.
