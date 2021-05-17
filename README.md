@@ -1,8 +1,8 @@
 # Notes on Machine Learning and Medical Research Papers
 
-[![GitHub issues](https://img.shields.io/github/issues-raw/jinglescode/papers?color=informational&label=number%20of%20paper%20reviews)](https://github.com/jinglescode/papers/issues)
+A collection of research paper summaries, on machine learning and medical (brain computer interface and vision). ML papers are mainly on solving computer vision or sequential problems, and medical papers are focusing on vision problems. 
 
-A collection of research paper summaries, on machine learning and medical (brain computer interface and vision). Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, search and filter research papers. 
+Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jinglescode/papers/issues) tab to browse, search and filter research papers. 
 
 ## Table of Contents
 
@@ -11,6 +11,7 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Autoencoder](#autoencoder)
 - [Computer Vision](#computer-vision)
 - [Sequential](#sequential)
+- [Sequential: Transformer](#sequential)
 
 **[Medical](#medical)**
 - [Brain computer interface](#brain-computer-interface)
@@ -21,6 +22,7 @@ A collection of research paper summaries, on machine learning and medical (brain
 # Machine Learning
 
 ## Autoencoder
+
 - [Machine translation of cortical activity to text with an encoder–decoder framework](https://github.com/jinglescode/ml-papers/issues/15)
 - [Speech synthesis from neural decoding of spoken sentences](https://github.com/jinglescode/ml-papers/issues/16)
 - [Conv-tasnet: Surpassing ideal time–frequency magnitude masking for speech separation](https://github.com/jinglescode/ml-papers/issues/18)
@@ -29,14 +31,19 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Pay Less Attention with Lightweight and Dynamic Convolutions](https://github.com/jinglescode/papers/issues/28)
 
 ## Computer vision
+
 - [Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks](https://github.com/jinglescode/ml-papers/issues/1)
 - [Stand-Alone Self-Attention in Vision Models](https://github.com/jinglescode/ml-papers/issues/21)
 - [On the relationship between self-attention and convolutional layers](https://github.com/jinglescode/papers/issues/22)
 - [Dynamic Convolution: Attention over Convolution Kernels](https://github.com/jinglescode/papers/issues/27)
 - [Dynamic Group Convolution for Accelerating Convolutional Neural Networks](https://github.com/jinglescode/papers/issues/29)
 - [An image is worth 16x16 words: Transformers for image recognition at scale](https://github.com/jinglescode/papers/issues/50)
+- [End-to-End Video Instance Segmentation with Transformers](https://github.com/jinglescode/papers/issues/60)
+- [Deep learning-enabled medical computer vision](https://github.com/jinglescode/papers/issues/63)
+- [Bottleneck Transformers for Visual Recognition](https://github.com/jinglescode/papers/issues/64)
 
 ## Sequential
+
 - [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://github.com/jinglescode/ml-papers/issues/14)
 - [Wavenet: A generative model for raw audio](https://github.com/jinglescode/ml-papers/issues/17)
 - [Conv-tasnet: Surpassing ideal time–frequency magnitude masking for speech separation](https://github.com/jinglescode/ml-papers/issues/18)
@@ -54,7 +61,7 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [SampleRNN: An unconditional end-to-end neural audio generation model](https://github.com/jinglescode/papers/issues/37)
 - [Generating Visually Aligned Sound from Videos](https://github.com/jinglescode/papers/issues/38)
 
-## Transformer
+### Sequential: Transformer
 
 - [Transformer-xl: Attentive language models beyond a fixed-length context](https://github.com/jinglescode/papers/issues/39)
 - [Compressive transformers for long-range sequence modelling](https://github.com/jinglescode/papers/issues/40)
@@ -71,6 +78,11 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Earthquake transformer—an attentive deep-learning model for simultaneous earthquake detection and phase picking](https://github.com/jinglescode/papers/issues/54)
 - [O(n) Connections are Expressive Enough: Universal Approximability of Sparse Transformers](https://github.com/jinglescode/papers/issues/55)
 - [Are Transformers universal approximators of sequence-to-sequence functions?](https://github.com/jinglescode/papers/issues/56)
+- [Fast Transformers with Clustered Attention](https://github.com/jinglescode/papers/issues/58)
+- [Transformers with convolutional context for ASR](https://github.com/jinglescode/papers/issues/59)
+- [Exploring Transformers for Large-Scale Speech Recognition](https://github.com/jinglescode/papers/issues/61)
+- [Transformers without Tears: Improving the Normalization of Self-Attention](https://github.com/jinglescode/papers/issues/62)
+- [Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting](https://github.com/jinglescode/papers/issues/66)
 
 # Medical
 
@@ -83,6 +95,7 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Steady-state visually evoked potentials: Focus on essential paradigms and future perspectives](https://github.com/jinglescode/papers/issues/34)
 - [Filter bank canonical correlation analysis for implementing a high-speed SSVEP-based brain–computer interface](https://github.com/jinglescode/papers/issues/48)
 - [Methods of EEG Signal Features Extraction Using Linear Analysis in Frequency and Time-Frequency Domains](https://github.com/jinglescode/papers/issues/52)
+- [MI-EEGNET: A novel Convolutional Neural Network for motor imagery classification](https://github.com/jinglescode/papers/issues/57)
 
 ## Vision
 
@@ -97,3 +110,5 @@ A collection of research paper summaries, on machine learning and medical (brain
 - [Steady-state multifocal visual evoked potential (ssmfVEP) using dartboard stimulation as a possible tool for objective visual field assessment](https://github.com/jinglescode/ml-papers/issues/11)
 - [A comparison of covert and overt attention as a control option in a steady-state visual evoked potential-based brain computer interface](https://github.com/jinglescode/ml-papers/issues/13)
 - [A Review of Deep Learning for Screening, Diagnosis, and Detection of Glaucoma Progression](https://github.com/jinglescode/papers/issues/35)
+- [Objective visual field determination in forensic ophthalmology with an optimized 4-channel multifocal VEP perimetry system: a case report of a patient with retinitis pigmentosa](https://github.com/jinglescode/papers/issues/65)
+- [Selective attention to stimulus location modulates the steady-state visual evoked potential](https://github.com/jinglescode/papers/issues/67)
