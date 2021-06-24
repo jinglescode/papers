@@ -133,6 +133,9 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 - RegNet - video sound generation, visually aligned sound, audio forwarding regularizer
 - using GAN, learn a correct mapping between video frames and visually relevant sound
 
+[WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://github.com/jinglescode/papers/issues/73)
+- text-to-speech synthesis, synthesizes the waveform directly without using hand-designed intermediate features (e.g., spectrograms)
+
 ## Sequential: Transformer
 
 [Transformer-xl: Attentive language models beyond a fixed-length context](https://github.com/jinglescode/papers/issues/39)
