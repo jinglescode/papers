@@ -136,6 +136,9 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 [WaveGrad 2: Iterative Refinement for Text-to-Speech Synthesis](https://github.com/jinglescode/papers/issues/73)
 - text-to-speech synthesis, synthesizes the waveform directly without using hand-designed intermediate features (e.g., spectrograms)
 
+[Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions](https://github.com/jinglescode/papers/issues/74)
+- text to speech synthesis, sequence-to-sequence feature prediction network that maps character embeddings to mel-scale spectrograms, followed by a modified WaveNet model acting as a vocoder to synthesize time-domain waveforms from those spectrograms
+
 ## Sequential: Transformer
 
 [Transformer-xl: Attentive language models beyond a fixed-length context](https://github.com/jinglescode/papers/issues/39)
