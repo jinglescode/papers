@@ -308,3 +308,12 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 
 [An oblique effect in parafoveal motion perception](https://github.com/jinglescode/papers/issues/76)
 - discriminate angular direction of moving grating in different frequency and in parafoveea
+
+[Electrophysiological correlates of gist perception: a steady-state visually evoked potentials study](https://github.com/jinglescode/papers/issues/77)
+- multi-stimulus paradigms is suitable to measure brain activity related specifically to each stimulus separately
+- two neighboring stimuli were flickered at different frequencies, SSVEPs enabled us to separate the responses to the two distinct stimuli by extracting oscillatory brain responses
+- succeeded in eliciting oscillatory brain responses at the driving stimuli’s frequencies, their harmonics, and the intermodulation frequency, that is, f1 + f2 = 20.57 Hz
+- brain’s response at a linear combination of two frequencies
+- demonstrates that SSVEPs are an excellent method to unravel mechanisms underlying the processing within multi-stimulus displays in the context of gist perception
+- multiple stimulus displays in combination with the analyses of intermodulation frequencies makes this an ideal approach to investigate gist perception in multi-stimulus processing
+
