@@ -305,3 +305,6 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 
 [Objective visual field determination in forensic ophthalmology with an optimized 4-channel multifocal VEP perimetry system: a case report of a patient with retinitis pigmentosa](https://github.com/jinglescode/papers/issues/65)
 - objective technique evaluating cortical activity, mfVEP was able to proof the concentric reduction of the visual field in this patient with late-stage retinitis pigmentosa
+
+[An oblique effect in parafoveal motion perception](https://github.com/jinglescode/papers/issues/76)
+- discriminate angular direction of moving grating in different frequency and in parafoveea
