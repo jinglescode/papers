@@ -63,6 +63,7 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 - incorporates self-attention in ResNet's bottleneck blocks, improves instance segmentation and object detection while reducing the parameters.
 - convolution and self-attention can beat ImageNet benchmark, pure attention ViT models struggle in small data regime, but shine in large data regime.
 
+
 ## Sequential
 
 [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://github.com/jinglescode/ml-papers/issues/14)
@@ -216,6 +217,7 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 - reduce time complexity: ProbSparse
 - predict sequence in one batch: generative style decoder (decoder generates long sequences with 1 forward pass)
 
+
 # Medical
 
 ## Brain computer interface
@@ -263,6 +265,22 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 - tested 5 motion based stimuli, motion evoked potentials is more comfortable alternative to flickering visual stimulation
 - comparable performance as flickering visual stimulation 
 
+[Electrophysiological correlates of gist perception: a steady-state visually evoked potentials study](https://github.com/jinglescode/papers/issues/77)
+- multi-stimulus paradigms is suitable to measure brain activity related specifically to each stimulus separately
+- two neighboring stimuli were flickered at different frequencies, SSVEPs enabled us to separate the responses to the two distinct stimuli by extracting oscillatory brain responses
+- succeeded in eliciting oscillatory brain responses at the driving stimuli’s frequencies, their harmonics, and the intermodulation frequency, that is, f1 + f2 = 20.57 Hz
+- brain’s response at a linear combination of two frequencies
+- demonstrates that SSVEPs are an excellent method to unravel mechanisms underlying the processing within multi-stimulus displays in the context of gist perception
+- multiple stimulus displays in combination with the analyses of intermodulation frequencies makes this an ideal approach to investigate gist perception in multi-stimulus processing
+
+[Perception of illusory contours forms intermodulation responses of steady state visual evoked potentials as a neural signature of spatial integration](https://github.com/jinglescode/papers/issues/78)
+- spectral decomposition of the measured EEG can show additional peaks at frequencies that are linear combinations of the driving frequencies
+- show that the perception of an illusory rectangle resulted in a significant increase of amplitudes in two intermodulation frequencies
+
+[From intermodulation components to visual perception and cognition-a review](https://github.com/jinglescode/papers/issues/79)
+- explore different uses of intermodulation, and review a range of recent studies exploiting intermodulation in visual perception research
+
+
 ## Vision
 
 [A comparison of covert and overt attention as a control option in a steady-state visual evoked potential-based brain computer interface](https://github.com/jinglescode/ml-papers/issues/2)
@@ -308,12 +326,3 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 
 [An oblique effect in parafoveal motion perception](https://github.com/jinglescode/papers/issues/76)
 - discriminate angular direction of moving grating in different frequency and in parafoveea
-
-[Electrophysiological correlates of gist perception: a steady-state visually evoked potentials study](https://github.com/jinglescode/papers/issues/77)
-- multi-stimulus paradigms is suitable to measure brain activity related specifically to each stimulus separately
-- two neighboring stimuli were flickered at different frequencies, SSVEPs enabled us to separate the responses to the two distinct stimuli by extracting oscillatory brain responses
-- succeeded in eliciting oscillatory brain responses at the driving stimuli’s frequencies, their harmonics, and the intermodulation frequency, that is, f1 + f2 = 20.57 Hz
-- brain’s response at a linear combination of two frequencies
-- demonstrates that SSVEPs are an excellent method to unravel mechanisms underlying the processing within multi-stimulus displays in the context of gist perception
-- multiple stimulus displays in combination with the analyses of intermodulation frequencies makes this an ideal approach to investigate gist perception in multi-stimulus processing
-
