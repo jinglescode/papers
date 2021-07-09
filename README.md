@@ -326,3 +326,15 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 
 [An oblique effect in parafoveal motion perception](https://github.com/jinglescode/papers/issues/76)
 - discriminate angular direction of moving grating in different frequency and in parafoveea
+
+[Choice of Grating Orientation for Evaluation of Peripheral Vision](https://github.com/jinglescode/papers/issues/80)
+- evaluate peripheral resolution and detection for different orientations in different visual field meridians
+
+[Motion Perception in the Peripheral Visual Field](https://github.com/jinglescode/papers/issues/81)
+- peripheral perception for motion stimulus
+
+[Development of Grating Acuity and Contrast Sensitivity in the Central and Peripheral Visual Field of the Human Infant](https://github.com/jinglescode/papers/issues/82)
+- analyze EEG of stimulus at peripheral (8 to 16 degree), to determine the separate responses for central and peripheral fields
+- no infant in this study had higher acuity in the peripheral field than in the central field
+- well, the peripheral field is relatively more mature at birth
+
