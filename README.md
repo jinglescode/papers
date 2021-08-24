@@ -280,6 +280,53 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 [From intermodulation components to visual perception and cognition-a review](https://github.com/jinglescode/papers/issues/79)
 - explore different uses of intermodulation, and review a range of recent studies exploiting intermodulation in visual perception research
 
+[Frequency recognition based on canonical correlation analysis for SSVEP-based BCIs](https://github.com/jinglescode/papers/issues/86)
+- important / popular paper on CCA for SSVEP detection
+
+[Computational modeling and application of steady-state visual evoked potentials in brain-computer interfaces](https://github.com/jinglescode/papers/issues/87)
+- shows how SSVEP works
+- notes on SSVEP
+
+[Spatial Filtering in SSVEP-Based BCIs: Unified Framework and New Improvements](https://github.com/jinglescode/papers/issues/88)
+- described popular CCAs techniques (itCCA, eCCA, Transfer Template CCA, Filter Bank CCA, Task-Related Component Analysis)
+- a unified framework under which the spatial filtering algorithms can be formulated as generalized eigenvalue problems (GEPs) with four different elements: data, temporal filter, orthogonal projection and spatial filter
+- design new spatial filtering algorithms
+
+[Spatial Filtering Based on Canonical Correlation Analysis for Classification of Evoked or Event-Related Potentials in EEG Data](https://github.com/jinglescode/papers/issues/89)
+- to increase classification accuracy, spatial filters are used to improve the signal-to-noise ratio of the brain signals and thereby facilitate the detection and classification of SSVEP and other VEPs
+
+[SSVEP enhancement based on Canonical Correlation Analysis to improve BCI performances](https://github.com/jinglescode/papers/issues/90)
+- this investigate CCA as a signal enhancement method and not as a feature extraction method
+- make use of the ability of CCA to handle multichannel EEG and find the space in which EEG samples correlate the most with the stimuli
+- CCA yields effective weights (spacial filters) with relatively small training sets
+
+[Multiway Canonical Correlation Analysis of Brain Signals](https://github.com/jinglescode/papers/issues/91)
+- CCA does not address the issue of comparing or merging responses across more than two subjects
+- Multiway CCA can be applied effectively to multi-subject datasets of EEG, to denoise the data prior to further analyses, and to summarize the data and reveal traits common across the population of subjects
+- MCCA-based denoising yields significantly better scores in an auditory stimulus-response classification task, and MCCA-based joint analysis of fMRI data reveals detailed subject-specific activation topographies
+
+[Spatial smoothing of canonical correlation analysis for steady state visual evoked potential based brain computer interfaces](https://github.com/jinglescode/papers/issues/92)
+- CCA spatial filter becomes spatially smooth to give robustness in short signal length condition
+
+[Learning across multi-stimulus enhances target recognition methods in SSVEP-based BCIs](https://github.com/jinglescode/papers/issues/94)
+- to utilize the training data corresponding to not only the target stimulus but also the neighboring stimuli for learning and consequently better performance in learning
+
+[An amplitude-modulated visual stimulation for reducing eye fatigue in SSVEP-based brain-computer interfaces](https://github.com/jinglescode/papers/issues/95)
+- reduction of eye fatigue for SSVEP
+- Four targets were used in combinations of three different modulating frequencies and two different carrier frequencies in the offline experiment, and two additional targets were added with one additional modulating and one carrier frequency in online experiments
+- results: caused lower eye fatigue and less sensing of flickering than a low-frequency stimulus, in a manner similar to a high-frequency stimulus
+
+[Visual evoked potential and psychophysical contrast thresholds in glaucoma](https://github.com/jinglescode/papers/issues/96)
+- VEP and Psyc thresholds can be quite uncorrelated with glaucoma, the two types of thresholds contain independent information about glaucoma that could be usefully combined
+
+[Contrast sensitivity and visual disability in chronic simple glaucoma](https://github.com/jinglescode/papers/issues/97)
+- battery of vision tests was used to quantify visual defect
+- static contrast sensitivity function appears to be the most sensitive method of measuring visual defect in glaucoma patients
+- vertical sinewave gratings
+
+[Insights for mfVEPs from perimetry using large spatial frequency-doubling and near frequency-doubling stimuli in glaucoma](https://github.com/jinglescode/papers/issues/98)
+- lower and higher temporal frequency tests probed the same neural mechanism
+- no advantage of spatial frequency-doubling stimuli for mfVEPs
 
 ## Vision
 
@@ -338,3 +385,18 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 - no infant in this study had higher acuity in the peripheral field than in the central field
 - well, the peripheral field is relatively more mature at birth
 
+[Motion perception in the peripheral visual field](https://github.com/jinglescode/papers/issues/83)
+- performance in the temporal hemified was slightly superior to that in the nasal hemifield and depended on the orientation as well as on the direction of the motion. 
+- perception of horizontal motion was better than that of vertical motion. 
+- in spite of large variations, centrifugal motion was significantly more readily perceived than centripetal motion.
+
+[Speed of visual processing increases with eccentricity](https://github.com/jinglescode/papers/issues/84)
+- the fovea has the resolution required to process fine spatial information, but the periphery is more sensitive to temporal properties
+- speed of information processing varies with eccentricity: processing was faster when same-size stimuli appeared at 9° than 4° eccentricity
+- at the same eccentricity, larger stimuli are processed more slowly
+
+[Stimulus dependencies of an illusory motion: Investigations of the Motion Bridging Effect](https://github.com/jinglescode/papers/issues/85)
+- using ring of points, check retinal eccentricity with various configurations
+
+[Ehud Kaplan on Receptive fields](https://github.com/jinglescode/papers/issues/93)
+- about M-cells and the P-cells
