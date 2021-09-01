@@ -10,6 +10,7 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
     - [Computer Vision](#computer-vision)
     - [Sequential](#sequential)
     - [Sequential: Transformer](#sequential-transformer)
+    - [Representation learning](#representation-learning)
 
 - **[Medical](#medical)**
     - [Brain computer interface](#brain-computer-interface)
@@ -217,6 +218,12 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 - reduce time complexity: ProbSparse
 - predict sequence in one batch: generative style decoder (decoder generates long sequences with 1 forward pass)
 
+## Representation learning
+
+[Deep Canonical Correlation Analysis](https://github.com/jinglescode/papers/issues/99)
+- learn complex nonlinear transformations of two views of data such that the resulting representations are highly linearly correlated
+- significantly higher correlation than those learned by CCA and KCCA
+- introduce a novel non-saturating sigmoid function based on the cube root
 
 # Medical
 
@@ -264,6 +271,10 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 [Comparison of Modern Highly Interactive Flicker-Free Steady State Motion Visual Evoked Potentials for Practical Brain–Computer Interfaces](https://github.com/jinglescode/papers/issues/71)
 - tested 5 motion based stimuli, motion evoked potentials is more comfortable alternative to flickering visual stimulation
 - comparable performance as flickering visual stimulation 
+
+[A new dual-frequency stimulation method to increase the number of visual stimuli for multi-class SSVEP-based brain–computer interface](https://github.com/jinglescode/papers/issues/72)
+- as SSVEP frequencies are generally limited by the monitor, this method allow us to increase the number of visual stimuli when necessary
+- ITR 33.26 bits/min, accuracy of 87.23%
 
 [Electrophysiological correlates of gist perception: a steady-state visually evoked potentials study](https://github.com/jinglescode/papers/issues/77)
 - multi-stimulus paradigms is suitable to measure brain activity related specifically to each stimulus separately
@@ -327,6 +338,10 @@ Papers are sorted by topics and tags. Go to the [Issues](https://github.com/jing
 [Insights for mfVEPs from perimetry using large spatial frequency-doubling and near frequency-doubling stimuli in glaucoma](https://github.com/jinglescode/papers/issues/98)
 - lower and higher temporal frequency tests probed the same neural mechanism
 - no advantage of spatial frequency-doubling stimuli for mfVEPs
+
+[Multifocal frequency-doubling pattern visual evoked responses to dichoptic stimulation](https://github.com/jinglescode/papers/issues/100)
+- results indicated that dichoptic evoked potentials using multifocal frequency-doubling illusion stimuli are practical. The use of crossed orientation, or differing spatial frequencies, in the two eyes reduced binocular interactions.
+
 
 ## Vision
 
