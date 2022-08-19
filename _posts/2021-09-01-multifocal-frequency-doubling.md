@@ -1,5 +1,5 @@
 ---
-title: Multifocal Frequency Doubling – A Review
+title: Multifocal Frequency Doubling
 layout: article
 aside:
   toc: true

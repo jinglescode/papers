@@ -1,5 +1,5 @@
 ---
-title: Beginning and Transformation of Transformer – A Review
+title: Beginning and Transformation of Transformer
 layout: article
 aside:
   toc: true
